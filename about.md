@@ -1,13 +1,30 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
+- PROFILE
 
-You can find the source code for the Jekyll new theme at:
-[sleek](https://github.com/janczizikow/sleek)
+	IT 기술 발전이 가속화 되고 있는 시대적 흐름 상황에서 스스로 가치를 만들어 내고자 하는 개발자입니다.
+	이를 위해 어느 한 분야에 치우치지 않고 클라이언트, 서버 모두 다룰 수 있는 풀스택 개발자라는 목표를 두고
+	끊임 없는 새로운 기술 연구와 다른 사람들과의 지속적인 커뮤니케이션을 통해 스스로 문제를 해결 할 수 있는 개발자로 성장 할 수 있었습니다.
 
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+- SKILL
+
+	Language : JAVA, PHP, C, Javascript, HTML, CSS <br><br>
+	OS : Android, Centos <br><br>
+	Protocol : HTTP, TCP/IP <br><br>
+	Web Server : Apache <br><br>
+	Database : MariaDB, SQLite <br><br>
+	ETC : OpenCV, NDK, okhttp3, Kakao Login API, Google Map API, Google Place API, Glide
+
+
+
+
+
+
+
+
+
+

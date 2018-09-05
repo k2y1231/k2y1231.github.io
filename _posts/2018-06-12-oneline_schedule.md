@@ -38,7 +38,7 @@ sub_title: "한줄 스케줄 어플"
 
 <center>
 <img src="http://k2y1231.github.io/assets/img/posts/oneline_schedule/write_schedule.png" style="width:auto;height:50%;margin-left:auto;margin-right:auto;display:inline-block;"/>
-<img src="http://localhost:4000/assets/img/posts/oneline_schedule/image_add.png" style="width:auto;height:50%;margin-left:auto;margin-right:auto;display:inline-block;"/>
+<img src="http://k2y1231.github.io/assets/img/posts/oneline_schedule/image_add.png" style="width:auto;height:50%;margin-left:auto;margin-right:auto;display:inline-block;"/>
 </center>
 
 ### 4. 알람

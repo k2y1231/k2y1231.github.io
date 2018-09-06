@@ -34,7 +34,7 @@ sub_title: "배경화면 공유 커뮤니티"
 
 &nbsp;&nbsp;게시판은 추천수/최신순으로 정렬되고 제목/댓글/작성자 등 키워드로 게시글을 검색 할 수 있습니다. 게시판 이미지들은 썸네일 형태로 보여줍니다.
 
-<img src="http://k2y1231.github.io/assets/img/posts/wallpape/board.png" style="width:auto;height:50%;margin-left:auto;margin-right:auto;display:block;"/>
+<img src="http://k2y1231.github.io/assets/img/posts/wallpaper/board.png" style="width:auto;height:50%;margin-left:auto;margin-right:auto;display:block;"/>
 
 ### 4. 게시글 작성
 

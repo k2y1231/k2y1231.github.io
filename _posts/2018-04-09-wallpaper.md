@@ -54,6 +54,7 @@ sub_title: "배경화면 공유 커뮤니티"
 
 <img src="http://k2y1231.github.io/assets/img/posts/wallpaper/my_wallpaper.png" style="width:auto;height:50%;margin-left:auto;margin-right:auto;display:block;"/>
 
+## 영상 시청
 
-
+&nbsp;&nbsp;<a href="https://youtu.be/-2Qp9HsUn2E">https://youtu.be/-2Qp9HsUn2E</a>
 

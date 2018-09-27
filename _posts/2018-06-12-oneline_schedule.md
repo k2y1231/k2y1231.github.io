@@ -55,6 +55,6 @@ sub_title: "한줄 스케줄 어플"
 
 ## 영상 시청
 
-&nbsp;&nbsp;https://youtu.be/aRRBegP8ki0
+&nbsp;&nbsp;<a href="https://youtu.be/aRRBegP8ki0">https://youtu.be/aRRBegP8ki0</a>
 
 

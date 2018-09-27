@@ -56,5 +56,5 @@ sub_title: "배경화면 공유 커뮤니티"
 
 ## 영상 시청
 
-&nbsp;&nbsp;<a href="https://youtu.be/-2Qp9HsUn2E">https://youtu.be/-2Qp9HsUn2E</a>
+&nbsp;&nbsp;<a href="https://youtu.be/36T6m7M0NFY">https://youtu.be/36T6m7M0NFY</a>
 

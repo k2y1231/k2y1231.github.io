@@ -12,8 +12,6 @@ sub_title: "한줄 스케줄 어플"
 ## 어플 설명
 
 &nbsp;&nbsp;기존 캘린더 형식의 스케줄 어플은 모든 스케줄 일정을 한 눈에 보기 힘들다는 점을 착안하여 리스트 형식으로 한 화면에 관리 할 수 있도록 도와주는 스케줄 앱	입니다.
-<br><br>
-영상 시청 URL : https://youtu.be/aRRBegP8ki0
 
 ## 상세 설명
 
@@ -55,6 +53,8 @@ sub_title: "한줄 스케줄 어플"
 
 <img src="http://k2y1231.github.io/assets/img/posts/oneline_schedule/background_music.png" style="width:auto;height:50%;margin-left:auto;margin-right:auto;display:block;"/>
 
+## 영상 시청
 
+&nbsp;&nbsp;https://youtu.be/aRRBegP8ki0
 
 
